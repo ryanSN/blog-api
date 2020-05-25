@@ -1919,10 +1919,10 @@ fastify-static@^2.5.1:
     readable-stream "^3.4.0"
     send "^0.16.0"
 
-fastify-swagger@=2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/fastify-swagger/-/fastify-swagger-2.5.0.tgz#961362f009f730b248fc11fb058e43543b18fb6b"
-  integrity sha512-WF3LpwwZunLtxzs1Dukwg7P4uBR9f2cwXL/JKD5D4O9Leq/S2QUfMNZg0eHxe4bJy1aUS9tt7IAHvY3ybgbApg==
+fastify-swagger@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/fastify-swagger/-/fastify-swagger-2.6.0.tgz#224215f127d4ef5f93361aaa1d2f67d93c9a980c"
+  integrity sha512-aavYxyaS+/s4Xk3rAAfWRjAYdbR4WmK0NU3n4KPRFTu7ucF8Nc4ofWVoLS4yML1qlbRr/c31mR32VGpzIm8DKA==
   dependencies:
     "@types/swagger-schema-official" "^2.0.20"
     fastify-plugin "^1.6.0"

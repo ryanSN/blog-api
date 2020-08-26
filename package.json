@@ -32,7 +32,7 @@
 		"objection-db-errors": "=1.1.2",
 		"objection-soft-delete": "=1.0.7",
 		"objection-visibility": "=1.0.0",
-		"pg": "=7.18.2",
+		"pg": "8.3.2",
 		"pino-pretty": "=3.6.1",
 		"under-pressure": "=3.2.1"
 	},
